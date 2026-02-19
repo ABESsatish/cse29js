@@ -1,0 +1,20 @@
+// console.log("hello world");
+// console.log("apna satish");
+// let a = 10;
+// let b= 5;
+// console. log("sum is :" , a+b); 
+let pencilprice = 10;
+let eraserprice = 5;
+// console.log("total price is :", pencilprice + eraserprice,"rupeews."); 
+console.log (`the total price is : ${pencilprice +  eraserprice} rupees`);
+// arithmetic operators
+let a =10 ;
+let b = 5;
+// console. log(a+b);
+//   console. log(a/b);
+//   console. log(a-b);
+//   console. log(a*b);
+//   console.log(a**b);
+// console.log(++a);
+console.log(a++);
+console.log(++a);
