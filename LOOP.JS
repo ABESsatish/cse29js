@@ -18,3 +18,33 @@ for(let key in person){
     document.write("person details: " + key+":" + person[key]+ "<br>")
 }
 
+
+
+
+
+
+let age = 20;
+if(age >=18){
+    document.write("you are adult");
+
+}
+else{
+    document.write("you are minor");
+}
+
+
+let grade ='A';
+document.write("entering switch block<br/>");
+switch(grade){
+    case 'A': document.write("good job");
+    break;
+
+ case'B': document.write("good job");
+    break;
+    case 'c': document.write("pretty good");
+    break;
+    case 'd': document.write("passes");
+    break;
+    case 'e': document.write("fail");
+    break;
+}
